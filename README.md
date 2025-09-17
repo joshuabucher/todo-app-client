@@ -1,4 +1,4 @@
-# 📘 README – Simple To-Do Manager (MERN)
+# README – Simple To-Do Manager (MERN)
 
 Dies ist eine kleine **To-Do-App**, mit der man Aufgaben anlegen, anzeigen, erledigen und löschen kann.  
 Sie wurde mit dem **MERN-Stack** entwickelt:
