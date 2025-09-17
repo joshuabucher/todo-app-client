@@ -10,7 +10,7 @@ Sie wurde mit dem **MERN-Stack** entwickelt:
 
 ---
 
-## 🚀 Funktionen
+## Funktionen
 
 - Aufgaben anlegen mit Titel und optionalem Fälligkeitsdatum
 - Aufgaben als „erledigt“ markieren
@@ -22,7 +22,7 @@ Sie wurde mit dem **MERN-Stack** entwickelt:
 
 ---
 
-## ⚙️ Voraussetzungen
+## Voraussetzungen
 
 Um das Projekt lokal zu starten oder weiterzuentwickeln, brauchst du:
 
@@ -34,7 +34,7 @@ Um das Projekt lokal zu starten oder weiterzuentwickeln, brauchst du:
 
 ---
 
-## 📂 Projektstruktur
+## Projektstruktur
 
 ```
 todo-app/
@@ -44,15 +44,15 @@ todo-app/
 
 ---
 
-## 🖥️ Installation & Start (lokal)
+## Installation & Start (lokal)
 
 ### 1. Projekt klonen
 
 Lade das Projekt von GitHub herunter (oder klone es, wenn du Git kennst):
 
 ```bash
-git clone https://github.com/<DEIN_GITHUB_NAME>/todo-app-server.git
-git clone https://github.com/<DEIN_GITHUB_NAME>/todo-app-client.git
+git clone https://github.com/joshuabucher/todo-app-server.git
+git clone https://github.com/joshuabucher/todo-app-client.git
 ```
 
 ---
@@ -116,7 +116,7 @@ git clone https://github.com/<DEIN_GITHUB_NAME>/todo-app-client.git
 
 ---
 
-## 🌍 Deployment (online stellen)
+## Deployment (online stellen)
 
 ### Backend → Render
 
@@ -169,7 +169,7 @@ Damit darf dein Frontend auf dein Backend zugreifen.
 
 ---
 
-## ✅ Funktionstest
+## Funktionstest
 
 1. Öffne deine Vercel-URL.
 2. Neues Todo anlegen → es sollte in der Liste erscheinen.
@@ -177,7 +177,7 @@ Damit darf dein Frontend auf dein Backend zugreifen.
 
 ---
 
-## ❓ Häufige Probleme
+## Häufige Probleme
 
 - **CORS-Fehler im Browser**  
   → `CORS_ORIGIN` auf Render exakt auf deine Vercel-URL setzen (ohne `/` am Ende).
@@ -193,7 +193,7 @@ Damit darf dein Frontend auf dein Backend zugreifen.
 
 ---
 
-## 🎓 Fazit
+## Fazit
 
 Mit dieser Anleitung kannst du die App:
 
